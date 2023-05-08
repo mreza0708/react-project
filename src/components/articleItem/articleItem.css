@@ -1,0 +1,28 @@
+.card{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: all 0.5s;
+
+}
+
+.card:hover{
+    scale: 1.05;
+
+}
+
+.read-more{
+display: flex;
+align-items: center;
+cursor: pointer;
+}
+.read-more:hover{
+    color: rgb(221, 104, 124);
+}
+.card-text{
+    text-align: justify;
+    color: gray;
+}
+.card a {
+    text-decoration: none;
+    color: #484848;
+}

@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "image": "https://dl.next1code.ir/images/react/article1.webp",
+      "title": "عنوان مقاله اول",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "writter": "عرفان مرادی",
+      "category": "برنامه نویسی",
+      "readingTime": "1"
+    },
+    {
+      "id": 2,
+      "image": "https://dl.next1code.ir/images/react/article2.webp",
+      "title": "عنوان مقاله دوم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "writter": "احمد احمدی",
+      "category": "برنامه نویسی لینوکس",
+      "readingTime": "8"
+    },
+    {
+      "id": 3,
+      "image": "https://dl.next1code.ir/images/react/article3.webp",
+      "title": "عنوان مقاله سوم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "writter": " تایماز رنجبری",
+      "category": "هوش مصنوعی",
+      "readingTime": "3"
+    },
+    {
+      "id": 4,
+      "image": "https://dl.next1code.ir/images/react/article4.webp",
+      "title": "عنوان مقاله چهارم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "writter": " عرفان مرادی",
+      "category": "هوش مصنوعی",
+      "readingTime": "4"
+    },
+    {
+      "id": 5,
+      "image": "https://dl.next1code.ir/images/react/article5.webp",
+      "title": "عنوان مقاله پنجم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "writter": " علی علیزاده",
+      "category": "هوش مصنوعی",
+      "readingTime": "5"
+    },
+    {
+      "id": 6,
+      "image": "https://dl.next1code.ir/images/react/article6.webp",
+      "title": "عنوان مقاله ششم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "writter": "محمد محمدی ",
+      "category": "هوش مصنوعی",
+      "readingTime": "6"
+    },
+    {
+      "id": 7,
+      "image": "https://dl.next1code.ir/images/react/article7.webp",
+      "title": "عنوان مقاله هفتم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "writter": "رضا رضایی",
+      "category": "هوش مصنوعی",
+      "readingTime": "7"
+    },
+    {
+      "id": 8,
+      "image": "https://dl.next1code.ir/images/react/article8.webp",
+      "title": "عنوان مقاله هشتم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "writter": " حسین حسین زاده",
+      "category": "هوش مصنوعی",
+      "readingTime": "8"
+    }
+  ]
+}
